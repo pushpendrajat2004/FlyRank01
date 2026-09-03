@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/pushpendrajat2004/FlyRank01/blob/main/work/notebooks/capstone.ipynb
